@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8dd30485891571843a2af32bb4a8a0cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MainCanvas: {instanceID: 0}
+  - RecordCanvas: {instanceID: 0}
+  - SettingCanvas: {instanceID: 0}
+  - ShopCanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
