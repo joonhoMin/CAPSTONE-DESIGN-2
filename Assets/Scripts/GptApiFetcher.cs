@@ -11,7 +11,7 @@ using UnityEngine.Scripting;
 public class GptApiFetcher : MonoBehaviour
 {
     private const string API_ENDPOINT = "https://api.openai.com/v1/chat/completions";
-    private const string API_KEY = "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";
+    private const string API_KEY = "YourAPIKey";
 
     public string FetchGPTResponse(string Input)
     {
